@@ -43,3 +43,10 @@ Usage
 
     - --image: Path to the input image.
     - --width: Known width of the reference object in the image (in real-world units).
+  
+Video Demonstratio of the Output:
+
+
+https://github.com/user-attachments/assets/19d9a61a-6fa6-439b-ad7e-b6d4e4d0d7d8
+
+
